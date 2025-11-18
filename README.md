@@ -17,4 +17,4 @@ https://www.credly.com/badges/6e6ef62e-efd0-4d6d-b5c6-3e612ec1a8dd/print
 https://www.credly.com/badges/b27e613e-9a21-4521-a971-1d7129fa0393/print
 
 Skillsets:
-Network Troubleshooting, Programming (SQL, CSS, C++), Leadership, Image Manipulation/Correction
+Network Troubleshooting, Programming (Java, SQL, CSS, C++), Leadership, Image Manipulation/Correction
